@@ -1,0 +1,66 @@
+.menu {
+    border: 1px solid rbg(214, 46, 16);
+    background-color: beige;
+    font-size: 16px;
+}
+
+.navMenu {
+    display: flex;
+}
+
+.navMenu:after {
+    content:'';
+    display: block;
+    clear: both;
+}
+
+.navMenu ul {
+    list-style: none;
+    text-align: left;
+    display: flex;
+}
+
+.navMenu ul li a{
+    display: inline-block;
+    text-decoration: none;
+    color: #333;
+}
+
+.navMenu ul li a {
+    font-weight: bold;
+    font-size: 15px;
+    color: black;
+}
+
+.navMenu ul li {
+   padding: 20px;
+   border: 1px solid;
+   margin-left: 20px;
+   width: 60px;
+   justify-content: center;
+   align-items: center;
+   display: flex;
+   width: 80px;
+   height: 21px;
+}
+
+
+.america {
+    background-color: green;
+ }
+
+ .asia {
+     background-color: hotpink;
+ }
+
+ .oceania {
+     background-color: rgb(102, 142, 252);
+ }
+
+ .antartica {
+     background-color: yellow;
+ }
+
+ .europa {
+     background-color: white;
+ }
