@@ -1,6 +1,5 @@
 import React from 'react';
 
-//import './Pages.css';
 import Header from '../Headers/Home-header';
 
 import Titulo from '../Titulo/Titulo.jsx';
@@ -9,7 +8,7 @@ import './pages.css';
 
 export default function Home() {
     return (
-        <div>
+        <div class="containerHome">
             <header>
                 <Header/>
             </header>

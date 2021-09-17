@@ -3,3 +3,33 @@
     justify-content: center;
     align-items: center;
 }
+
+.container1{
+    background-color: green;
+    height: 100vh;
+}
+
+.container2{
+    background-color: pink;
+    height: 100vh;
+}
+
+.container3{
+    background-color: lightblue;
+    height: 100vh;
+}
+
+.container4{
+    background-color: yellow;
+    height: 100vh;
+}
+
+.container5{
+    background-color: white;
+    height: 100vh;
+}
+
+.containerHome {
+    background-color: rgb(180, 180, 180);
+    height: 100vh;
+}

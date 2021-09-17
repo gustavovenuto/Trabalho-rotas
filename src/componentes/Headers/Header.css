@@ -40,7 +40,7 @@
    justify-content: center;
    align-items: center;
    display: flex;
-   width: 80px;
+   width: 95px;
    height: 21px;
 }
 
@@ -50,11 +50,11 @@
  }
 
  .asia {
-     background-color: hotpink;
+     background-color: pink;
  }
 
  .oceania {
-     background-color: rgb(102, 142, 252);
+     background-color: lightblue;
  }
 
  .antartica {

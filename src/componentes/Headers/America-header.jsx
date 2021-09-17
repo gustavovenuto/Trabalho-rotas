@@ -9,12 +9,12 @@ export default function Header() {
         <div className="menu">
             <nav className="navMenu">
                 <ul>
-                    <li class="europa"><Link to="/">VOLTAR</Link></li>
-                    <li class="america"><Link to="#">AMÉRICA DO NORTE</Link></li>
-                    <li class="america"><Link to="#">AMÉRICA CENTRAL</Link></li>
-                    <li class="america"><Link to="/ras">AMÉRICA DO SUL</Link></li>
-                    <li class="america"><Link to="#">EQUADOR</Link></li>
-                    <li class="america"><Link to="#">INFERIORES</Link></li>
+                    <li><Link to="/">VOLTAR</Link></li>
+                    <li><Link to="#">AMÉRICA DO NORTE</Link></li>
+                    <li><Link to="#">AMÉRICA CENTRAL</Link></li>
+                    <li><Link to="/ras">AMÉRICA DO SUL</Link></li>
+                    <li><Link to="#">EQUADOR</Link></li>
+                    <li><Link to="#">INFERIORES</Link></li>
                 </ul>
             </nav>
         </div>

@@ -9,13 +9,13 @@ export default function Header() {
         <div className="menu">
             <nav className="navMenu">
                 <ul> 
-                    <li class="europa"><Link to="/">MENU</Link></li>
-                    <li class="europa"><Link to="/ra">VOLTAR</Link></li>
-                    <li class="america"><Link to="#">PATAGÔNIA</Link></li>
-                    <li class="america"><Link to="#">CORDILHEIRA DOS ANDES</Link></li>
-                    <li class="america"><Link to="#">CARTAGENA-COLÔMBIA</Link></li>
-                    <li class="america"><Link to="/rp">PANTANAL</Link></li>
-                    <li class="america"><Link to="#">VULCÃO QUILOTOA-EQUADOR</Link></li>
+                    <li><Link to="/">MENU</Link></li>
+                    <li><Link to="/ra">VOLTAR</Link></li>
+                    <li><Link to="#">PATAGÔNIA</Link></li>
+                    <li><Link to="#">CORDILHEIRA DOS ANDES</Link></li>
+                    <li><Link to="#">CARTAGENA-COLÔMBIA</Link></li>
+                    <li><Link to="/rp">PANTANAL</Link></li>
+                    <li><Link to="#">VULCÃO QUILOTOA-EQUADOR</Link></li>
                 </ul>
             </nav>
         </div>

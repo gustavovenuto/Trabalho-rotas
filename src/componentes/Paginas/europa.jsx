@@ -1,19 +1,19 @@
 import React from 'react';
 
 import './pages.css';
-import Header from '../Headers/AmericaSul-header';
+import Header from '../Headers/Home-header';
 
 import Titulo from '../Titulo/Titulo.jsx';
 
-export default function AmericaSul() {
+export default function Europa() {
     return (
-        <div class="container1">
+        <div class="container5">
             <header>
                 <Header/>
             </header>
 
             <div className="title">
-                <Titulo texto="América do sul"/>
+                <Titulo texto="Europa"/>
             </div>
 
         </div>

@@ -10,10 +10,10 @@ export default function Header() {
             <nav className="navMenu">
                 <ul>
                     <li class="america"><Link to="/ra">America</Link></li>
-                    <li class="asia"><Link to="/#">Asia</Link></li>
-                    <li class="oceania"><Link to="#">OCEANIA</Link></li>
-                    <li class="antartica"><Link to="#">ANTÁRTICA</Link></li>
-                    <li class="europa"><Link to="#">EUROPA</Link></li>
+                    <li class="asia"><Link to="/asia">Asia</Link></li>
+                    <li class="oceania"><Link to="/oceania">OCEANIA</Link></li>
+                    <li class="antartica"><Link to="/antartica">ANTÁRTICA</Link></li>
+                    <li class="europa"><Link to="/europa">EUROPA</Link></li>
                 </ul>
             </nav>
         </div>

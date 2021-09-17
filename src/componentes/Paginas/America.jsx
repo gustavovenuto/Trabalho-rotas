@@ -1,13 +1,13 @@
 import React from 'react';
 
-//import './Pages.css';
+import './pages.css';
 import Header from '../Headers/America-header';
 
 import Titulo from '../Titulo/Titulo.jsx';
 
 export default function America() {
     return (
-        <div>
+        <div class="container1">
             <header>
                 <Header/>
             </header>
